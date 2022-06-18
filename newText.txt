@@ -1,0 +1,2 @@
+This is a text file edited in a-shell and pushed from working copy.
+
